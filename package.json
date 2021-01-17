@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "escpos": "^3.0.0-alpha.6",
-    "escpos-usb": "^3.0.0-alpha.4"
+    "escpos-network": "^3.0.0-alpha.5",
+    "escpos-usb": "^3.0.0-alpha.4",
+    "iconv": "^3.0.0"
   }
 }
